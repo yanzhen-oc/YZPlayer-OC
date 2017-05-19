@@ -50,8 +50,6 @@
 //reset av
 - (void)reset;
 
-//NSTimer invalidate
-- (void)free;
 @end
 
 @interface YZAVView (YZAVViewPlay)
