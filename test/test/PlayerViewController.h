@@ -1,9 +1,7 @@
 //
 //  PlayerViewController.h
-//  test
 //
-//  Created by yanzhen on 2017/5/19.
-//  Copyright © 2017年 yanzhen. All rights reserved.
+//  Created by yanzhen.
 //
 
 #import <UIKit/UIKit.h>
